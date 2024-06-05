@@ -1,4 +1,4 @@
-# Activity 5: Debuging 
+# Activity 5: Debugging
 
 ## Description
 
