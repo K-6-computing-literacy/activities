@@ -2,6 +2,10 @@
 
 **Objective:** This activity aims to encourage students to reflect on their experiences with robots at the summer camp, foster creativity through drawing, and develop critical thinking skills through an engaging online coding exercise.
 
+**Ages:**
+
+- Can be from ages 4-11.
+
 **Materials Needed:**
 
 - Paper and pencils for drawing.
