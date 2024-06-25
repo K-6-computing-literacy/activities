@@ -4,9 +4,10 @@
 
 Children will identify, analyze, and create simple patterns using shapes, colors, or numbers.
 
-## Grades
+## Grades & Time Required
 
-1st Grade onwards.
+**Grades**: 1st grade onwards.
+**Time Required**: 1 hour
 
 ## Materials Needed
 
@@ -46,7 +47,7 @@ Children will identify, analyze, and create simple patterns using shapes, colors
 - Create a few "pattern puzzles" where some elements in the sequence are missing, and ask students to fill in the blanks.
   - Example: Sequence: 🟣, 🟣, 🟤, ___, 🟣, 🟣, 🟤, ___ (They fill in with 🟣, 🟣, 🟤)
 
-### Coding & Patterns
+### Extensions
 
 Students who are able to complete the above exercises will be prompted to try the coding exercise on blockly called [Blockly Turtle](https://blockly.games/turtle?lang=en). This is a program which prompts them to try and code shapes.
 
