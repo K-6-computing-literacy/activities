@@ -50,6 +50,12 @@ Children will identify, analyze, and create simple patterns using shapes, colors
 
 Students who are able to complete the above exercises will be prompted to try the coding exercise on blockly called [Blockly Turtle](https://blockly.games/turtle?lang=en). This is a program which prompts them to try and code shapes.
 
+## Reflection
+
+Have students display the patterns and share them with the class. This allows them to take pride in their work and see the diversity of patterns created by their peers.
+
+After completing the work with Blockly Turtle, ask students what they found the most tricky with the problems/levels in the website and how they overcame their struggles with figuring out the code.
+
 ## Learning Outcomes
 
 - Students will develop the ability to recognize and extend patterns.

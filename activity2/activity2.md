@@ -12,37 +12,49 @@ For students unfamiliar with the powers of 2, a reference sheet will be provided
 
 ## Materials Required
 
-* 3-4 Balloons
-* Markers
-* A sheet with the powers of 2
-* Piece of paper and pens for calculations / Whiteboards and markers
+- 3-4 Balloons
+- Markers
+- A sheet with the powers of 2
+- Piece of paper and pens for calculations / Whiteboards and markers
 
 ## Steps to Conduct the Activity
 
 ### Step 1: Preparation
 
-* Inflate 3 balloons and secure them. Blow up one more in case an additional example is needed.
-* Write the binary digits 0 and 1 on the balloons using a permanent marker. Example provided in this folder: [Example of binary balloon activity](../activity2/binaryballoons.jpg).
+- Inflate 3 balloons and secure them. Blow up one more in case an additional example is needed.
+- Write the binary digits 0 and 1 on the balloons using a permanent marker. Example provided in this folder: [Example of binary balloon activity](../activity2/binaryballoons.jpg).
 
 ### Step 2: Implementation
 
-* Arrange the balloons in a line. You can use string or tape to ensure they stay in place.
-* Prepare several different sequences for demonstration and practice (e.g., 000, 010, 011, 100, 110, 111).
-* Have the extra balloon ready to be added to the activity so students can experiment with different examples.
+- Arrange the balloons in a line. You can use string or tape to ensure they stay in place.
+- Prepare several different sequences for demonstration and practice (e.g., 000, 010, 011, 100, 110, 111).
+- Have the extra balloon ready to be added to the activity so students can experiment with different examples.
 
 ### Step 3: Explanation
 
-* Explain to the students that each balloon represents a binary digit (bit), and the position of the balloon determines its value in the binary number system.
-* Explain that the index of the first balloon is always zero and increases from there.
-* Explain the formula for decoding binary into decimal numbers.
-* Provide examples of how binary is used in real life.
+- Explain to the students that each balloon represents a binary digit (bit), and the position of the balloon determines its value in the binary number system.
+- Explain that the index of the first balloon is always zero and increases from there.
+- Explain the formula for decoding binary into decimal numbers.
+- Provide examples of how binary is used in real life.
 
 ### Step 4: Implementation
 
-* Divide students into different groups and ask them to solve the binary code.
-* Mix up their balloons with those of another group.
-* After solving, bring the groups together to compare their answers. If they got the same answer, discuss how they arrived at it.
+- Divide students into different groups and ask them to solve the binary code.
+- Mix up their balloons with those of another group.
+- After solving, bring the groups together to compare their answers. If they got the same answer, discuss how they arrived at it.
 
-## Summary
+## Reflection
 
-At the end of this activity, students should have a basic understanding of binary numbers, their positional value, and how to convert binary to decimal.
+Ask the following questions to stimulate discussion:
+
+- What was the most challenging part of the activity?
+- Did you find it easier to understand binary numbers after the activity? Why or why not?
+- Can you think of other ways binary numbers might be used in the real world?
+
+## Learning Outcomes
+
+By the end of this activity, students should:
+
+- Have a basic understanding of binary numbers and their positional value.
+- Be able to convert simple binary numbers to decimal numbers.
+- Develop problem-solving and teamwork skills through group activities.

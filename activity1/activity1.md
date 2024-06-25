@@ -35,10 +35,16 @@ In this activity, students will learn the fundamentals of if-else-if else(elif) 
 - Using block code, guide each group to set up their robot (which will serve as the car) to reenact the two situations.
 - Allow the students to test their code by running the robot on the road setup.
 
-### Step 4: Reflection
+## Reflection
 
 - Bring the groups together to discuss their experiences. Ask each group to share their challenges and solutions.
 
-## Summary
+## Learning Outcomes
 
-In this activity, students should be able to understand how if-else-elif statements can make decisions in programming. By programming a GoPiGo robot to navigate a blocked road, students experienced firsthand how conditional statements are applied in real-life scenarios to choose alternative routes.
+By the end of this activity, students should be able to:
+
+- Comprehend the basic structure and function of if-else-elif statements in programming.
+- Use conditional statements to create decision-making processes in block coding.
+- Simulate real-life problem-solving by programming a robot to navigate alternate routes when the primary path is blocked.
+- Enhance their computational thinking skills by breaking down a problem into smaller, manageable conditions and actions.
+- Test their block code in a practical setup and debug any issues that arise to ensure the robot navigates correctly.
