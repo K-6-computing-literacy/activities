@@ -4,6 +4,10 @@
 
 Kids will learn about sorting by arranging numbered paper strips in order and using different sorting approaches that a computer can take.
 
+## Grades
+
+1st Grade onwards.
+
 ## Materials Required
 
 * Paper pieces labelled 1-10

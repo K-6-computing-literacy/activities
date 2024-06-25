@@ -6,6 +6,10 @@ This activity is suitable for younger kids as it involves simpler tasks but can 
 
 For students unfamiliar with the powers of 2, a reference sheet will be provided to guide them.
 
+## Grades
+
+3rd Grade onwards.
+
 ## Materials Required
 
 * 3-4 Balloons

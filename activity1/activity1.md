@@ -4,6 +4,10 @@
 
 In this activity, students will learn the fundamentals of if-else-if else(elif) statements through a hands-on lesson involving a model car and a programmable robot (GoPiGo). Students will explore decision-making using block code processes by programming the robot to navigate a multi-way road with a barricade, simulating real-life scenarios where alternate routes must be taken when the primary route is blocked.
 
+## Grades
+
+5th grade onwards.
+
 ## Materials Required
 
 - Model car

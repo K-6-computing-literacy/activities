@@ -4,6 +4,10 @@
 
 Children will identify, analyze, and create simple patterns using shapes, colors, or numbers.
 
+## Grades
+
+1st Grade onwards.
+
 ## Materials Needed
 
 - Paper and colored pencils/crayons
