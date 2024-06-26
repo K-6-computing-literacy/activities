@@ -4,6 +4,14 @@
 
 In this activity the students main goal will be creating obstacles through conditional actions. Using the app for Bee Bot, students will be paired with one another and create routes that require block coding to move. Block coding is a hands-on way for children to learn the basics of coding. An activity that requires them to think about creating conditions for block coding will help them gain a better understanding of code and the creative ways you can use it.
 
+## Grades & Time Required
+
+**Kindergarten**: 45 min 
+
+**2nd - 4th**: 30 min 
+
+**5th & 6th**: 25min 
+
 ## Materials required
 
 - Bee Bot 

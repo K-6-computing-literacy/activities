@@ -4,6 +4,11 @@
 
 - This activity is meant to teach students about what debugging is and the different ways bugs present themselves in code. The lesson will consist of activities that help identify when there is a bug present, how to fix it and the difference between syntax errors and logic errors. It is important to the lesson to emphasize what each example being used is supposed to represent. 
 
+## Grades & Time Required
+
+**4th - 6th**: 30 min
+
+
 ## Materials required
 
 - Debugging Scenarios 
@@ -35,4 +40,4 @@
 
 ## Summary
 
-- This activity exposes students to the basics of debugging. It shows them the most common found errors in code and the ways we should deal with them. Engagement in these types of activities can better help students who are introduced to code, they will have better understanding of how to deal with errors when coding. 
+- This activity exposes students to the basics of debugging. It shows them the most common found errors in code and the ways we should deal with them. Engagement in these types of activities can better help students who are introduced to code, they will have better understanding of how to deal with errors when coding.

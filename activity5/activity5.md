@@ -4,6 +4,10 @@
 
 - Students will be given light brackets and shown pictures that they must imitate. They can be put into groups or be alone depending on what figures are being shown to them. It will teach them how to use the light brackets.
 
+## Grades & Time Required
+
+**5th & 6th**: 1 hour 
+
 ## Materials required
 
 - Light bracket board 
