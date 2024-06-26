@@ -8,8 +8,8 @@ For students unfamiliar with the powers of 2, a reference sheet will be provided
 
 ## Grades & Time Required
 
-**Grades**: 2nd grade onwards.
-**Time Required**: 30 minutes.
+- **Grades**: 2nd grade onwards.
+- **Time Required**: 30 minutes.
 
 ## Materials Required
 

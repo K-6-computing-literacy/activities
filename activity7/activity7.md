@@ -6,8 +6,8 @@ Children will identify, analyze, and create simple patterns using shapes, colors
 
 ## Grades & Time Required
 
-**Grades**: 1st grade onwards.
-**Time Required**: 1 hour
+- **Grades**: 1st grade onwards.
+- **Time Required**: 1 hour
 
 ## Materials Needed
 

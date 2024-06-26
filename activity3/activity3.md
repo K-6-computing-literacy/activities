@@ -6,8 +6,8 @@ Kids will learn about sorting by arranging numbered paper strips in order and us
 
 ## Grades & Time Required
 
-**Grades**: 1st grade onwards
-**Time Required**: 30 minutes
+- **Grades**: 1st grade onwards
+- **Time Required**: 30 minutes
 
 ## Materials Required
 

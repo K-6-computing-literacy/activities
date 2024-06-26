@@ -6,8 +6,8 @@ Introduce students to computational thinking by having them guide a "robot" thro
 
 ## Grades & Time Required
 
-**Grades**: Kindegarden and beyond (Adaptable Complexity)
-**Duration**: 30 - 40 minutes
+- **Grades**: Kindegarden and beyond (Adaptable Complexity)
+- **Duration**: 30 - 40 minutes
 
 ## Materials Required
 

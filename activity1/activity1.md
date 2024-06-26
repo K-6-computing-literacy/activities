@@ -6,8 +6,8 @@ In this activity, students will learn the fundamentals of if-else-if else(elif) 
 
 ## Grades & Time Required
 
-**Grades**: 5th grade onwards.
-**Time Required**: 1 hour
+- **Grades**: 5th grade onwards.
+- **Time Required**: 1 hour
 
 ## Materials Required
 
